@@ -30,3 +30,6 @@ public:
         }
     }
 };
+
+TC: O(n)+O(n)+O(n) ~ O(n)
+SC = O(1)

@@ -29,6 +29,5 @@ public:
         }
         if(col0==0) matrix[i][0]=0;    // update 0th column based on overlapping variable col0
     }
-        
     }
 };

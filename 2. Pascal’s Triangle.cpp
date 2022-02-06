@@ -16,7 +16,6 @@ public:
                 mat[i][j]=mat[i-1][j-1]+mat[i-1][j];
             }
         }
-        
         return mat;
     }
 };

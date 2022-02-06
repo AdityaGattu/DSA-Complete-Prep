@@ -16,5 +16,6 @@ public:
             profit = max(profit,prices[i]-min_left);
         }
         return profit;
+        
     }
 };

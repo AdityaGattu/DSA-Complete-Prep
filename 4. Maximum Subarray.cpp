@@ -16,7 +16,6 @@ public:
                 sum=0;
             }
         }
-        
         return max_ele;
         
     }

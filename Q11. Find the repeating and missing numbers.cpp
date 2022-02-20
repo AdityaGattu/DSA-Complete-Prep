@@ -28,7 +28,11 @@ vector<int> Solution::repeatedNumber(const vector<int> &A) {
     return ans;
 }
 
+Same in case of both solns
+TC: O(N);
+SC : O(1);     
 
+ 
 Sol2 : Diving into 2 sets: 
 
 vector<int> Solution::repeatedNumber(const vector<int> &A) {
@@ -86,4 +90,8 @@ vector<int> Solution::repeatedNumber(const vector<int> &A) {
     
     return ans;
 }
+
+Same in case of both solns
+TC: O(5N);
+SC : O(1);    
 

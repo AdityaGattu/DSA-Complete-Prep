@@ -2,6 +2,7 @@ https://www.codingninjas.com/codestudio/problems/1112602?topList=striver-sde-she
 
 Problem 10. Find the duplicate in an array of N+1 integers
 
+
 int findDuplicate(vector<int> &arr, int n){
 	// Write your code here.
     

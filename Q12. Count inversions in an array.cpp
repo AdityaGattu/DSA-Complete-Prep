@@ -2,6 +2,7 @@ https://www.codingninjas.com/codestudio/problems/count-inversions_615?leftPanelT
 
 12. Count inversions in an array
 
+
 long merge(long long arr[],long long temp[],long low,long mid,long high){
 
     long i = low;

@@ -57,6 +57,7 @@ long long getInversions(long long *arr, int n){
     return merge_sort(arr,temp,low,high);
 }
 
+
 TC: O(nlogn)
 SC: O(n)
 

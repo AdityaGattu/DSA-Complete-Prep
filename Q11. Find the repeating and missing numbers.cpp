@@ -92,6 +92,7 @@ vector<int> Solution::repeatedNumber(const vector<int> &A) {
 }
 
 Same in case of both solns
+
 TC: O(5N);
 SC : O(1);    
 
